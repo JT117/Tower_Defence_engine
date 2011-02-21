@@ -1,0 +1,13 @@
+INPUT(
+./release\Apparence.o
+./release\Constante.o
+./release\Ennemi.o
+./release\main.o
+./release\Missile.o
+./release\Plateau.o
+./release\Tour.o
+./release\moc_Apparence.o
+./release\moc_Ennemi.o
+./release\moc_Plateau.o
+./release\moc_Tour.o
+);

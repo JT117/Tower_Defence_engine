@@ -1,0 +1,13 @@
+INPUT(
+./debug\Apparence.o
+./debug\Constante.o
+./debug\Ennemi.o
+./debug\main.o
+./debug\Missile.o
+./debug\Plateau.o
+./debug\Tour.o
+./debug\moc_Apparence.o
+./debug\moc_Ennemi.o
+./debug\moc_Plateau.o
+./debug\moc_Tour.o
+);
